@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  I'm Dilpreet Bajwa</h1>
+<h4 align="center">Hi 👋,  I'm Dilpreet Bajwa</h4>
 <h4 align="center">
   Fullstack Developer
  <a href="https://www.linkedin.com/in/bajwa-dilpreet/">
