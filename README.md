@@ -8,7 +8,7 @@
     />
   </a>
 
-  ### 💻 😍 Some Technologies I Enjoy  
+  ### 💻 Some Technologies I Enjoy  
   
 ![Html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white)
