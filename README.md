@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  I'm Dilpreet Bajwa</h1>
-<h2 align="center">
+<h4 align="center">
   Fullstack Developer
  <a href="https://www.linkedin.com/in/bajwa-dilpreet/">
     <img
